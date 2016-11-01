@@ -1,6 +1,6 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial
 
-MAINTAINER Marcelo Souza
+MAINTAINER SecOps Project
 
 ENV NGINX_VERSION 1.10.1-1~xenial
 
